@@ -1,3 +1,3 @@
 The Odin Project - Web Development 101
 
-[Demo](http://jioneeu.com/toy-projects/etch-a-sketchy/src)
+[Demo](https://jioneeu.github.io/projects/etch_a_sketchy/index.html)
